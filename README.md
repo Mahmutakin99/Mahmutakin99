@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-mahmutakn03%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mahmutakn03@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmut%20Ak%C4%B1n-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmutak%C4%B1n03/)
 
-![Skills](https://skillicons.dev/icons?i=swift,php,laravel,python,csharp,react,ts,postgres,git)
+![Skills](https://skillicons.dev/icons?i=swift,php,laravel,python,cs,react,ts,postgres,git)
 
 </div>
 
