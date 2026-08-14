@@ -16,7 +16,6 @@
 - [**Orbit**](https://github.com/Mahmutakin99/Orbit) — radial app launcher + system monitor for macOS, written in Swift.
 - [**Tabu**](https://github.com/Mahmutakin99/Tabu) — iOS word-guessing game (SwiftUI), with solo/team modes and custom word lists.
 - [**ChatLy**](https://github.com/Mahmutakin99/ChatLy) — real-time messaging app in Swift + Firebase, MVVM architecture.
-- [**UstaPlatform**](https://github.com/Mahmutakin99/UstaPlatform) — C# service marketplace prototype with a layered domain/pricing/rules architecture.
 - [**claude-code-statusline**](https://github.com/Mahmutakin99/claude-code-statusline) — a small open-source statusline for Claude Code.
 
 Check the pinned repositories below for more.
