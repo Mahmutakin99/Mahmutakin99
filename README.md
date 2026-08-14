@@ -23,7 +23,6 @@ Check the pinned repositories below for more.
 
 <div align="center">
 
-![Mahmut's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmutakin99&show_icons=true&theme=dark&hide_border=true&count_private=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Mahmutakin99&theme=dark&hide_border=true)
 
 </div>
