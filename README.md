@@ -6,6 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-mahmutakn03%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mahmutakn03@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmut%20Ak%C4%B1n-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmutak%C4%B1n03/)
+[![Project Portfolio](https://img.shields.io/badge/Project_Portfolio-Case_Studies-1B4F8A?style=flat&logo=github&logoColor=white)](https://github.com/Mahmutakin99/project-portfolio)
 
 ![Skills](https://skillicons.dev/icons?i=swift,php,laravel,python,cs,react,ts,postgres,git)
 
@@ -13,6 +14,7 @@
 
 ## A few things I've built
 
+- [**Project Portfolio**](https://github.com/Mahmutakin99/project-portfolio) — code-free case studies for private iOS and full-stack projects.
 - [**Orbit**](https://github.com/Mahmutakin99/Orbit) — radial app launcher + system monitor for macOS, written in Swift.
 - [**Tabu**](https://github.com/Mahmutakin99/Tabu) — iOS word-guessing game (SwiftUI), with solo/team modes and custom word lists.
 - [**ChatLy**](https://github.com/Mahmutakin99/ChatLy) — real-time messaging app in Swift + Firebase, MVVM architecture.
